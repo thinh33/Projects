@@ -1,5 +1,3 @@
-#Name: Thinh Tran
-#EID: tpt446
 import tkinter as tk
 from tkinter import colorchooser, messagebox
 
